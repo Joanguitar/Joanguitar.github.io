@@ -9747,6 +9747,10 @@ button.bg-dark:focus {
   color: #fff !important;
 }
 
+.text-blue {
+  color: #007bff !important;
+}
+
 .text-primary {
   color: #1abc9c !important;
 }
